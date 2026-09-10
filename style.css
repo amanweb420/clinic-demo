@@ -468,3 +468,15 @@ footer p {
     font-size: 25px;
   }
 }
+/* CLINIC BANNER */
+.hero-banner {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
