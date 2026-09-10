@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Aarogya Care Clinic | Dr. Rahul Kumar</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+
+        <div class="logo">
+            ❤️ Aarogya <span>Care Clinic</span>
+        </div>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+    </header>
+
+
+    <!-- HERO SECTION -->
+    <section class="hero" id="home">
+
+        <div class="hero-text">
+
+            <p class="badge">Trusted • Experienced • Caring</p>
+
+            <h1>
+                आपके अच्छे स्वास्थ्य के लिए
+                हम हमेशा तैयार हैं
+            </h1>
+
+            <p>
+                Aarogya Care Clinic में आपको अनुभवी डॉक्टर की
+                सलाह, बेहतर देखभाल और भरोसेमंद स्वास्थ्य सेवाएँ मिलती हैं।
+            </p>
+
+            <div class="buttons">
+
+                <a href="tel:+919876543210" class="call-btn">
+                    📞 Call Now
+                </a>
+
+                <a href="https://wa.me/919876543210" class="whatsapp-btn">
+                    💬 WhatsApp
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="doctor-card">
+
+            <div class="doctor-photo">
+                👨‍⚕️
+            </div>
+
+            <h2>Dr. Rahul Kumar</h2>
+
+            <p>MBBS, MD (General Medicine)</p>
+
+            <p>10+ Years Experience</p>
+
+        </div>
+
+    </section>
+
+
+    <!-- QUICK FEATURES -->
+    <section class="features">
+
+        <div>
+            🛡️
+            <h3>Qualified Doctor</h3>
+            <p>Experienced & Caring</p>
+        </div>
+
+        <div>
+            🏥
+            <h3>Modern Treatment</h3>
+            <p>Better Healthcare</p>
+        </div>
+
+        <div>
+            ❤️
+            <h3>Patient Support</h3>
+            <p>Always With You</p>
+        </div>
+
+        <div>
+            ⭐
+            <h3>Trusted Care</h3>
+            <p>Patient Friendly</p>
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+    <section class="about" id="about">
+
+        <div class="about-box">
+
+            <p class="section-label">About Our Clinic</p>
+
+            <h2>Aarogya Care Clinic</h2>
+
+            <p>
+                हमारा उद्देश्य लोगों को बेहतर स्वास्थ्य सेवाएँ
+                और सही चिकित्सकीय सलाह उपलब्ध कराना है।
+            </p>
+
+            <ul>
+                <li>General Medicine</li>
+                <li>Preventive Care</li>
+                <li>Personalized Treatment</li>
+                <li>Patient Friendly Environment</li>
+            </ul>
+
+        </div>
+
+
+        <div class="doctor-info">
+
+            <h2>Dr. Rahul Kumar</h2>
+
+            <p>MBBS, MD (General Medicine)</p>
+
+            <p>
+                डॉक्टर राहुल कुमार सामान्य स्वास्थ्य समस्याओं
+                के लिए परामर्श और उपचार की सुविधा प्रदान करते हैं।
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- SERVICES -->
+    <section class="services" id="services">
+
+        <p class="section-label">Our Services</p>
+
+        <h2>हमारी प्रमुख सेवाएँ</h2>
+
+        <div class="service-grid">
+
+            <div class="service-card">
+                🩺
+                <h3>General Medicine</h3>
+                <p>सामान्य स्वास्थ्य समस्याओं की सलाह।</p>
+            </div>
+
+            <div class="service-card">
+                🫁
+                <h3>Health Consultation</h3>
+                <p>स्वास्थ्य संबंधी परामर्श।</p>
+            </div>
+
+            <div class="service-card">
+                💧
+                <h3>Diabetes Care</h3>
+                <p>डायबिटीज से संबंधित सामान्य देखभाल।</p>
+            </div>
+
+            <div class="service-card">
+                ❤️
+                <h3>Heart Health</h3>
+                <p>हृदय स्वास्थ्य संबंधी परामर्श।</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- TIMING + LOCATION -->
+    <section class="clinic-info" id="contact">
+
+        <div class="info-card">
+
+            <h2>🕐 Clinic Timing</h2>
+
+            <p>Monday - Saturday</p>
+            <strong>9:00 AM - 1:00 PM</strong>
+
+            <p>Evening</p>
+            <strong>4:00 PM - 8:00 PM</strong>
+
+        </div>
+
+
+        <div class="info-card">
+
+            <h2>📍 Our Location</h2>
+
+            <p>
+                Aarogya Care Clinic<br>
+                Main Road, Lakhanpur<br>
+                Vaishali, Bihar - 844504
+            </p>
+
+            <a href="#" class="map-btn">
+                View on Google Maps →
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FINAL CTA -->
+    <section class="cta">
+
+        <h2>अपॉइंटमेंट के लिए आज ही संपर्क करें</h2>
+
+        <div class="buttons">
+
+            <a href="tel:+919876543210" class="call-btn">
+                📞 Call Now
+            </a>
+
+            <a href="https://wa.me/919876543210" class="whatsapp-btn">
+                💬 WhatsApp
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <h2>Aarogya Care Clinic</h2>
+
+        <p>📍 Lakhanpur, Vaishali, Bihar</p>
+
+        <p>📞 +91 98765 43210</p>
+
+        <p>© 2026 Aarogya Care Clinic. All Rights Reserved.</p>
+
+    </footer>
+
+
+</body>
+</html>
