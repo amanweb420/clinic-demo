@@ -571,3 +571,26 @@ footer p {
     color: #087f8c;
     font-weight: 700;
 }
+/* SOFT COLORFUL FEATURES */
+.features {
+    padding: 45px 20px;
+}
+
+.feature-card {
+    background: linear-gradient(135deg, #f5fcff, #eefaf8);
+    border: 1px solid #dceff2;
+    box-shadow: 0 8px 25px rgba(27, 82, 110, 0.08);
+    transition: 0.25s;
+}
+
+.feature-card:hover {
+    transform: translateY(-4px);
+}
+
+.feature-card h3 {
+    color: #087f8c;
+}
+
+.feature-card p {
+    color: #6b7f8c;
+}
