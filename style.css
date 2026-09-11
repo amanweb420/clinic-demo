@@ -825,4 +825,82 @@ footer p {
         font-size: 13px;
     }
 }
+/* =========================
+   DOCTOR VIDEO
+========================= */
 
+.doctor-video {
+    padding: 45px 20px;
+    text-align: center;
+}
+
+.doctor-video h2 {
+    margin: 8px 0;
+    color: #173f5f;
+    font-size: 28px;
+}
+
+.video-description {
+    max-width: 600px;
+    margin: 0 auto 25px;
+    color: #708596;
+    line-height: 1.6;
+}
+
+.video-box {
+    max-width: 700px;
+    margin: auto;
+}
+
+.video-placeholder {
+    min-height: 300px;
+    border-radius: 20px;
+    background: #eaf7fa;
+    border: 2px dashed #b9dfe5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.video-placeholder span {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    color: #159a9c;
+    box-shadow: 0 6px 18px rgba(27, 82, 110, 0.12);
+}
+
+.video-placeholder h3 {
+    margin: 15px 0 5px;
+    color: #173f5f;
+}
+
+.video-placeholder p {
+    margin: 0;
+    color: #708596;
+    font-size: 14px;
+}
+
+
+/* Mobile */
+@media (max-width: 600px) {
+
+    .doctor-video {
+        padding: 35px 15px;
+    }
+
+    .doctor-video h2 {
+        font-size: 24px;
+    }
+
+    .video-placeholder {
+        min-height: 230px;
+    }
+}
