@@ -594,3 +594,44 @@ footer p {
 .feature-card p {
     color: #6b7f8c;
 }
+/* SOFT COLORFUL ABOUT */
+.about-box,
+.doctor-info {
+    background: linear-gradient(135deg, #f8fdff, #f1fbfa);
+    border: 1px solid #e1f0f2;
+    box-shadow: 0 8px 25px rgba(27, 82, 110, 0.07);
+}
+
+.about-box h2,
+.doctor-info h2 {
+    color: #087f8c;
+}
+
+.about-box p,
+.doctor-info p {
+    color: #647b8c;
+}
+
+.about-box li {
+    color: #587381;
+   }
+/* SOFT COLORFUL SERVICES */
+.service-card {
+    background: linear-gradient(135deg, #f8fdff, #f1fbfa);
+    border: 1px solid #e0eff2;
+    border-left: 5px solid #65bfc3;
+    box-shadow: 0 8px 25px rgba(27, 82, 110, 0.07);
+    transition: 0.25s;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+}
+
+.service-card h3 {
+    color: #087f8c;
+}
+
+.service-card p {
+    color: #647b8c;
+}
