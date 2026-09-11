@@ -531,3 +531,17 @@ footer p {
 .doctor-info h2 {
     margin-bottom: 10px;
 }
+/* SERVICES CENTER DESIGN */
+.services {
+    padding: 55px 20px;
+    text-align: center;
+}
+
+.services > h2 {
+    margin-bottom: 30px;
+}
+
+.service-grid {
+    max-width: 900px;
+    margin: auto;
+}
