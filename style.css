@@ -635,3 +635,30 @@ footer p {
 .service-card p {
     color: #647b8c;
 }
+/* SOFT COLORFUL CLINIC INFO */
+.clinic-info .info-card {
+    background: linear-gradient(135deg, #f8fdff, #f1fbfa);
+    border: 1px solid #e0eff2;
+    box-shadow: 0 8px 25px rgba(27, 82, 110, 0.07);
+    transition: 0.25s;
+}
+
+.clinic-info .info-card:hover {
+    transform: translateY(-4px);
+}
+
+.clinic-info .info-card h2 {
+    color: #087f8c;
+}
+
+.clinic-info .info-card p {
+    color: #647b8c;
+}
+
+.clinic-info .info-card strong {
+    color: #31576b;
+}
+
+.clinic-info .map-btn {
+    color: #087f8c;
+}
