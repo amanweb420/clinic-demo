@@ -480,3 +480,31 @@ footer p {
     width: 100%;
     height: auto;
 }
+/* CENTER CONTENT */
+.features,
+.about,
+.services,
+.clinic-info {
+    text-align: center;
+}
+
+.features > *,
+.about > *,
+.services > *,
+.clinic-info > * {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.service-grid,
+.info-grid,
+.feature-grid {
+    justify-items: center;
+}
+
+.about-box,
+.doctor-info,
+.service-card,
+.info-card {
+    text-align: center;
+}
